@@ -1,0 +1,35 @@
+
+.font_icons	{
+	width:35px;
+	font-size: 1.3rem;
+}
+
+.icon_action	{
+	font-size: 1.2rem;
+	cursor: pointer;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+.icon_action:hover	{
+	color: gray;
+	background: white;
+}
+
+.action_btn	{
+	padding: 5px;
+	font-size: 0.7rem;
+}
+
+.btn_like	{
+	padding: 5px;
+	margin: 2px;
+}
+
+.color_label	{
+	width: 15px;
+	height: 15px;
+	border-radius: 2345678px;
+	background: red;
+}

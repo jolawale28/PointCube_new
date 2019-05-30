@@ -1,0 +1,49 @@
+
+.img-sm	{
+	width: 100px;
+	height: 100px;
+}
+
+.circle_im	{
+	border-radius: 3245678px;
+	border: 1px solid red;
+}
+
+.tb_profile	{
+	padding: 15px;
+}
+
+.tb_profile > div {
+	display: inline-block;
+}
+
+.tb_profile > div:nth-child(3)	{
+	float: right;
+
+}
+
+.link_icon	{
+	margin-right: 10px;
+}
+
+.clickable_row	{
+	cursor: pointer;
+
+}
+
+.clickable_row:hover	{
+	background: rgb(250, 250, 250);
+}
+
+body::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
